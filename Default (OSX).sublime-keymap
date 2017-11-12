@@ -1,0 +1,8 @@
+[
+	{ "keys": ["shift,shift"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+	{ "keys": ["super+shift+r"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+	{ "keys": ["super+shift+g"], "command": "goto_symbol_in_project" },
+	{ "keys": ["alt+shift+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+shift+down"], "command": "swap_line_down" },
+	{ "keys": ["super+d"], "command": "duplicate_line" },
+]

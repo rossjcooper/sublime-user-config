@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"ayu",
+		"Boxy Theme Addon - Mono File Icons",
+		"CodeFormatter",
+		"DocBlockr",
+		"Emmet",
+		"ESLint",
+		"Git",
+		"GitGutter",
+		"Laravel Colour Scheme",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"Todo",
+		"TodoReview",
+		"Vuejs Complete Package"
+	]
+}
